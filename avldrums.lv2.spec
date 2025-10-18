@@ -6,7 +6,7 @@ Version:		0.7.3
 Release:		1
 License:		GPLv2
 Group:	Sound
-Url:		http://x42-plugins.com/x42/x42-avldrums
+Url:		https://x42-plugins.com/x42/x42-avldrums
 # Submodules are a pain
 #Source0:	https://github.com/x42/avldrums.lv2/archive/refs/tags/v0.7.3.tar.gz
 Source0:	%{name}-%{version}.tar.xz
