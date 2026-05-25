@@ -2,7 +2,7 @@
 
 Summary:		A simple Drum Sample Player Plugin
 Name:	avldrums.lv2
-Version:		0.7.3
+Version:		0.7.4
 Release:		1
 License:		GPLv2
 Group:	Sound
